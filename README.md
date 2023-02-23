@@ -1,6 +1,6 @@
 # Adiu.AI
 
-######Citation:
+**Citation:**
 
 @misc{lea:2021,
     author       = {Colin Lea AND Vikramjit Mitra AND Aparna Joshi AND Sachin Kajarekar AND Jeffrey P. Bigham},
