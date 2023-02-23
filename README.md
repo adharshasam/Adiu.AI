@@ -1,12 +1,12 @@
 # Adiu.AI
 
-**Key findings on EDA & preliminary ML**
+**Key findings on EDA & preliminary Machine Learning:**
 
-<img width="368" alt="image" src="https://user-images.githubusercontent.com/64684527/221038622-95f3ba7c-de04-421f-a525-990e26eb4321.png">
+![download](https://user-images.githubusercontent.com/64684527/221039427-162f8a84-62a9-491b-aa56-90b2f9bd8144.png)
 
 **Insight #1**: We can see that the variables 'Prolongation', 'Block', 'SoundRep' & 'WordRep' are strongly correlated with 'Stutter' which stores data on the correct labelling of stuttered words. However, 'Interjection' & 'NaturalPause' have little to negative correlation with 'Stutter'.
 
-<img width="578" alt="image" src="https://user-images.githubusercontent.com/64684527/221038992-20b07154-284e-46a6-a5c4-e465bdf62e6c.png">
+<img width="818" alt="image" src="https://user-images.githubusercontent.com/64684527/221039299-d147086b-1b57-4190-9c19-5cb920253d02.png">
 
 **Insight #2**: Our Logistic Regression Classification Model confirms that stuttering events can be detected with 99% accuracy with just the following variables: 'Prolongation', 'Block', 'SoundRep', 'WordRep', 'Interjection' & 'NaturalPause'.
 
