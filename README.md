@@ -6,7 +6,7 @@
 
 ![download](https://user-images.githubusercontent.com/64684527/221039427-162f8a84-62a9-491b-aa56-90b2f9bd8144.png)
 
-**Insight #1**: We can see that the variables 'Prolongation', 'Block', 'SoundRep' & 'WordRep' are strongly correlated with 'Stutter' which stores data on the correct labelling of stuttered words. However, 'Interjection' & 'NaturalPause' have little to negative correlation with 'Stutter'.
+**Insight #1**: We can see that the variables 'Prolongation', 'Block', 'SoundRep' & 'WordRep' are strongly correlated with 'Stutter' which stores data on the correct labelling of stuttered words. However, 'Interjection' & 'NaturalPause' have little and negative correlation with 'Stutter' respectively.
 
 <img width="818" alt="image" src="https://user-images.githubusercontent.com/64684527/221039299-d147086b-1b57-4190-9c19-5cb920253d02.png">
 
