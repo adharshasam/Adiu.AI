@@ -2,7 +2,7 @@
 
 **Initial Pretotyping Hypothesis:** A short-term product that detects stuttering would be appreciated by speech therapists as it would reduce their manual labour. 
 
-**Key findings on EDA & preliminary Machine Learning:** (code can be accessed [here](https://github.com/adharshasam/Adiu.AI/blob/main/EDA_%26_Preliminary_ML_for_Pretotype.ipynb))
+**Initial Idea Validation using Exploratory Data Analysis & Machine Learning:** (code can be accessed [here](https://github.com/adharshasam/Adiu.AI/blob/main/EDA_%26_Preliminary_ML_for_Pretotype.ipynb))
 
 ![download](https://user-images.githubusercontent.com/64684527/221039427-162f8a84-62a9-491b-aa56-90b2f9bd8144.png)
 
@@ -19,3 +19,12 @@
     title        = {{SEP-28k}: A Dataset for Stuttering Event Detection from Podcasts with People Who Stutter},
     howpublished = {ICASSP 2021},
 }
+
+**We pitched this "Feasible Product Idea" as MVP 1.0 to early adopters. This idea of "Pitching without Product" was inspired by Jim Poss (Inventor of the BigBelly Solar Trash Compactor).** 
+
+We learnt that this product could only be used by doctors at Fluency Clinics which reduces the sample size of our target users. This means that we might not be able to build a profitable business in the long run. So, we chose to quickly **pivot** to a New Product Idea!
+
+**MVP 2.0 (Product Demo Video) was inspired by Drew Houston's (CEO of Dropbox) Product Demo Video that he uploaded on Hacker News for Product Validation.**
+
+Product Demo Video can be accessed [here](https://www.youtube.com/watch?v=IkgEH5qoHD0)
+Adiu Company Website can be accessed [here](https://adiu.webflow.io/)
