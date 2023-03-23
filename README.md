@@ -20,7 +20,7 @@
     howpublished = {ICASSP 2021},
 }
 
-This AI product that detects whether a patient has stuttering issue based on the detection of these six variables - 'Prolongation', 'Block', 'SoundRep', 'WordRep', 'Interjection' & 'NaturalPause' - in audio files can be built using the following ML Techniques!
+**This AI product that deciphers whether a patient has stuttering issue based on the detection of these six variables - 'Prolongation', 'Block', 'SoundRep', 'WordRep', 'Interjection' & 'NaturalPause' - in audio files can be built using the following ML Techniques!**
 
 <img width="660" alt="image" src="https://user-images.githubusercontent.com/64684527/227075391-b23170e9-0c7e-4326-b773-0f53803aea14.png">
 
