@@ -36,5 +36,4 @@ Adiu Company Website can be accessed [here](https://adiu.webflow.io/)
 
 **Here is our Final Product Idea used to pitch to Angel Investors after one whole month of Continuous Verification of Product Viability through gaining Target User Feedback via Product Survey!**
 
-https://www.youtube.com/watch?v=URTHdlVCIRM
-
+The Final Demo Video of our Product Idea can be accessed [here](https://www.youtube.com/watch?v=URTHdlVCIRM)
