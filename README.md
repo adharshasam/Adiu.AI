@@ -50,7 +50,7 @@ Here are some promising survey results!
 
 **THE FINAL PITCH!**
 
-**We gave our Final Pitch to a panel of Angel Investors after 4 months of hard-work and our Adiu bagged the "Best Startup Award" among 11 total startups in the cohort.**
+We gave our Final Pitch to a panel of Angel Investors after 4 months of hard-work and our Adiu bagged the "Best Startup Award" among 11 total startups in the cohort.
 
 <img width="547" alt="image" src="https://user-images.githubusercontent.com/64684527/234146930-3ee2e73e-be0e-4211-ba59-d42bf871aa71.png">
 
