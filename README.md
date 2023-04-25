@@ -50,9 +50,10 @@ Here are some promising survey results!
 
 **THE FINAL PITCH!**
 
-**We gave our Final Pitch to a panel of Angel Investors after 4 months of hard-work and our Adiu bagged the "Best Startup Award" among 11 total startups.**
+**We gave our Final Pitch to a panel of Angel Investors after 4 months of hard-work and our Adiu bagged the "Best Startup Award" among 11 total startups in the cohort.**
 
-<img width="413" alt="plague" src="https://user-images.githubusercontent.com/64684527/234146364-5b43c13c-df8c-4620-80d6-408349d8d2a4.png">
+<img width="547" alt="image" src="https://user-images.githubusercontent.com/64684527/234146930-3ee2e73e-be0e-4211-ba59-d42bf871aa71.png">
 
-Adiu Company Website can be accessed [here](https://adiu.webflow.io/)
-The Final Demo Video of our Product Idea can be accessed [here](https://www.youtube.com/watch?v=URTHdlVCIRM)
+*Adiu Company Website can be accessed [here]*(https://adiu.webflow.io/)
+
+*The Final Demo Video of our Product Idea can be accessed [here]*(https://www.youtube.com/watch?v=URTHdlVCIRM)
