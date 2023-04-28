@@ -2,7 +2,9 @@
 
 ***The term 'adiu' - a homonym to 'audio' - is derived from the Latin word 'adiutor' which means 'assistant'.***
 
-***We are a group of SUTD students currently developing a platform to assist speech therapists detect their patients' speech impairments with greater accuracy using AI. As the CTO of the startup, I am in-charge of discovering & deploying innovative yet feasible AI technologies for product development.***
+***We are a female-led, social-impact startup that develops products to assist speech therapists in detecting their patients' speech impairments with greater accuracy using AI. As the CTO of the startup, I am in-charge of discovering & deploying innovative yet feasible AI technologies for product development.***
+
+<img width="624" alt="image" src="https://user-images.githubusercontent.com/64684527/235034942-830c3a9c-1d9f-4ac7-a3b8-a6eeb4bb75e2.png">
 
 **Initial Pretotyping Hypothesis:** A short-term product that detects stuttering would be appreciated by speech therapists as it would reduce their manual labour. 
 
