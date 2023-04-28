@@ -4,7 +4,7 @@
 
 ***We are a female-led, social-impact startup that develops products to assist speech therapists in detecting their patients' speech impairments with greater accuracy using AI. As the CTO of the startup, I am in-charge of discovering & deploying innovative yet feasible AI technologies for product development.***
 
-<img width="624" alt="image" src="https://user-images.githubusercontent.com/64684527/235034942-830c3a9c-1d9f-4ac7-a3b8-a6eeb4bb75e2.png">
+<img width="910" alt="image" src="https://user-images.githubusercontent.com/64684527/235035168-7fbcaae8-f283-49cf-8099-65bd29de0c49.png">
 
 **Initial Pretotyping Hypothesis:** A short-term product that detects stuttering would be appreciated by speech therapists as it would reduce their manual labour. 
 
