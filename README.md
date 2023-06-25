@@ -18,6 +18,8 @@
 
 **Insight #2**: Our Logistic Regression Classification Model confirms that stuttering events can be detected with 99% accuracy with just the following variables: 'Prolongation', 'Block', 'SoundRep', 'WordRep', 'Interjection' & 'NaturalPause'.
 
+**Note**: Since 'Block' & 'SoundRep' have significantly strong correlation, 'SoundRep' could be removed from the list of feature variables before model training. The model accuracy, in this case, becomes 96%.
+
 **Citation:**
 
 @misc{lea:2021,
