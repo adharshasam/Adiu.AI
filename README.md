@@ -52,7 +52,7 @@ Here are some promising survey results!
 
 ![image](https://user-images.githubusercontent.com/64684527/234145361-b8dd2360-f808-4340-a409-ec2e8511b43b.png)
 
-**THE FINAL PITCH.**
+**THE. FINAL. PITCH.** 🦈
 
 We gave our Final Pitch to a panel of Angel Investors after 4 months of hardwork and Adiu bagged the "Best Startup Award" among 11 total startups in the cohort! 🤍
 
