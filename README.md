@@ -2,9 +2,11 @@
 
 ***The term 'adiu' - a homonym to 'audio' - is derived from the Latin word 'adiutor' which means 'assistant'.***
 
-***We are a female-led, social-impact startup that develops products to assist speech therapists in detecting their patients' speech impairments with greater accuracy using AI. As the CTO of the startup, I am in-charge of discovering & deploying innovative yet feasible AI technologies for product development.***
+***We are a multinational, female-led, social-impact startup that develops products to assist speech therapists in detecting their patients' speech impairments with greater accuracy using AI. As the CTO of the startup, I am in-charge of discovering & deploying innovative yet feasible AI technologies for product development.***
 
-<img width="910" alt="image" src="https://user-images.githubusercontent.com/64684527/235035168-7fbcaae8-f283-49cf-8099-65bd29de0c49.png">
+Here are my co-founders!
+
+![image](https://github.com/adharshasam/Adiu.AI/assets/64684527/8deb8a4d-b0b5-4f84-a689-d962b138efc1)
 
 **Initial Pretotyping Hypothesis:** A short-term product that detects stuttering would be appreciated by speech therapists as it would reduce their manual labour. 
 
@@ -18,7 +20,7 @@
 
 **Insight #2**: Our Logistic Regression Classification Model confirms that stuttering events can be detected with 99% accuracy with just the following variables: 'Prolongation', 'Block', 'SoundRep', 'WordRep', 'Interjection' & 'NaturalPause'.
 
-**Note**: Since 'Block' & 'SoundRep' have significantly strong correlation, 'SoundRep' could be removed from the list of feature variables before model training. The model accuracy, in this case, becomes 96%.
+**Note**: Since 'Block' & 'SoundRep' have significantly strong correlation, 'SoundRep' could be removed from the list of feature variables before model training to avoid *multicollinearity*. The model accuracy, in this case, becomes 96%.
 
 **Citation:**
 
