@@ -2,25 +2,21 @@
 
 ***The term 'adiu' - a homonym to 'audio' - is derived from the Latin word 'adiutor' which means 'assistant'.***
 
-***We are a multinational, female-led, social-impact startup that develops products to assist speech therapists in detecting their patients' speech impairments with greater accuracy using AI. As the CTO of the startup, I am in-charge of discovering & deploying innovative yet feasible AI technologies for product development.***
+***Adiu.AI is a multinational social-impact startup that develops AI-powered tools to help speech therapists streamline and accelerate the detection of speech impairments. As the CTO of the startup, I was responsible for researching and validating innovative yet practical AI technologies to shape product development.***
 
 Here are my co-founders!
 
 ![image](https://github.com/adharshasam/Adiu.AI/assets/64684527/8deb8a4d-b0b5-4f84-a689-d962b138efc1)
 
-**Initial Pretotyping Hypothesis:** A short-term product that detects stuttering would be appreciated by speech therapists as it would reduce their manual labour. 
+**Initial Pretotyping Hypothesis:** A product that automatically detects stuttering would be highly valued by speech therapists, as it would significantly reduce the need for manual analysis.
 
-**Validating the Technical Feasibility of the Initial Product Idea using Exploratory Data Analysis & Machine Learning:** (code can be accessed [here](https://github.com/adharshasam/Adiu.AI/blob/main/EDA_%26_Preliminary_ML_for_Pretotype.ipynb))
+**Validating the Technical Feasibility of an Early-Stage Product:** (code can be accessed [here](https://github.com/adharshasam/Adiu.AI/blob/main/Lean_Technical_Feasibility_Testing_%26_Validation_with_ML_Model_MVP.ipynb))
 
-![download](https://user-images.githubusercontent.com/64684527/221039427-162f8a84-62a9-491b-aa56-90b2f9bd8144.png)
+![output1](https://github.com/user-attachments/assets/a0821097-a41e-4414-8fee-a1f69d2bf865)
 
-**Insight #1**: We can see that the variables 'Prolongation', 'Block', 'SoundRep' & 'WordRep' are strongly correlated with 'Stutter' which stores data on the correct labelling of stuttered words. However, 'Interjection' & 'NaturalPause' have little and negative correlation with 'Stutter' respectively.
+![output2](https://github.com/user-attachments/assets/94c54a6a-58e1-4651-b587-a3587bd75093)
 
-<img width="818" alt="image" src="https://user-images.githubusercontent.com/64684527/221039299-d147086b-1b57-4190-9c19-5cb920253d02.png">
-
-**Insight #2**: Our Logistic Regression Classification Model confirms that stuttering events can be detected with 99% accuracy with just the following variables: 'Prolongation', 'Block', 'SoundRep', 'WordRep', 'Interjection' & 'NaturalPause'.
-
-**Note**: Since 'Block' & 'SoundRep' have significantly strong correlation, 'SoundRep' could be removed from the list of feature variables before model training to avoid *multicollinearity*. The model accuracy, in this case, becomes 96%.
+These insights demonstrate that the stuttering detection app is technically feasible and can guide the development of a fully-fledged prototype. This AI product, which determines whether a patient has a stuttering issue based on audio data, can be built using the following ML techniques.
 
 **Citation:**
 
@@ -29,8 +25,6 @@ Here are my co-founders!
     title        = {{SEP-28k}: A Dataset for Stuttering Event Detection from Podcasts with People Who Stutter},
     howpublished = {ICASSP 2021},
 }
-
-**This AI product that deciphers whether a patient has stuttering issue based on the detection of these six variables - 'Prolongation', 'Block', 'SoundRep', 'WordRep', 'Interjection' & 'NaturalPause' - in audio files can be built using the following ML Techniques!**
 
 <img width="660" alt="image" src="https://user-images.githubusercontent.com/64684527/227075391-b23170e9-0c7e-4326-b773-0f53803aea14.png">
 
