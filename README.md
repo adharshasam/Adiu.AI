@@ -20,23 +20,23 @@ These insights demonstrate that the stuttering detection app is technically feas
 
 **Citation:**
 
+<img width="660" alt="image" src="https://user-images.githubusercontent.com/64684527/227075391-b23170e9-0c7e-4326-b773-0f53803aea14.png">
+
 @misc{lea:2021,
     author       = {Colin Lea AND Vikramjit Mitra AND Aparna Joshi AND Sachin Kajarekar AND Jeffrey P. Bigham},
     title        = {{SEP-28k}: A Dataset for Stuttering Event Detection from Podcasts with People Who Stutter},
     howpublished = {ICASSP 2021},
 }
 
-<img width="660" alt="image" src="https://user-images.githubusercontent.com/64684527/227075391-b23170e9-0c7e-4326-b773-0f53803aea14.png">
+**To test the market viability of this product, we pitched this feasible product idea as MVP 1.0 to our early adopters (speech therapists based in both Singapore & Australia). This idea of "Pitching without Product" was inspired by Jim Poss (Inventor of the BigBelly Solar Trash Compactor).** 
 
-**To test the Market Viability of this Product, we pitched this "Feasible Product Idea" as our MVP 1.0 to Early Adopters (Speech Therapists based in both Singapore & Australia). This idea of "Pitching without Product" was inspired by Jim Poss (Inventor of the BigBelly Solar Trash Compactor).** 
-
-We learnt that this product could only be sold to doctors at Fluency Clinics which further reduces the sample size of our already small pool of target users. This means that we might not be able to build a profitable business in the long run. So, we chose to quickly **PIVOT** to a New Product Idea!
+We learnt that this product could only be sold to doctors at fluency clinics which reduces the sample size of our already small pool of target users. This means that we might not be able to build a profitable business in the long run. So, we chose to quickly **PIVOT** to a new product idea!
 
 **Starting from Scratch...**
 
-After gaining a better understanding of the pain points of our Early Adopters, we decided to create a **Speech Transcription Software** that assists speech therapists in annotating and transcribing patient audio files without autocorrecting mistakes, thereby reducing the overall time spent on monotonous manual tasks!
+After gaining a better understanding of the pain points of our early adopters, we decided to create a **speech transcription app** that assists speech therapists in annotating and transcribing patient audio files without autocorrecting mistakes, thereby reducing the overall time spent on monotonous manual tasks!
 
-**To gain more Target User Feedback on this new idea, we designed a Product Survey with our MVP 2.0 (Product Demo Video) and a set of well-curated follow-up questions to gain insightful feedback. This idea of creating a "Product Demo Video" to gauge interest was inspired by Drew Houston's (CEO of Dropbox) Product Demo Video which he uploaded on Hacker News for Product Validation.**
+**To gain more target user feedback on this new product idea, we designed a product survey with our MVP 2.0 (Product Demo Video) and a set of well-curated follow-up questions to gain insightful feedback. This idea of creating a "Product Demo Video" to gauge interest was inspired by Drew Houston's (CEO of Dropbox) product demo video which he uploaded on Hacker News for product validation.**
 
 Here are some promising survey results!
 
@@ -50,8 +50,8 @@ Here are some promising survey results!
 
 **THE. FINAL. PITCH.** 🦈
 
-We gave our Final Pitch to a panel of Angel Investors after 4 months of hardwork and Adiu bagged the "Best Startup Award" among 11 total startups in the cohort! 🤍
+We gave our final pitch to a panel of angel investors and Adiu bagged the "Best Startup Award" among 11 total startups in the cohort! 🤍
 
 <img width="547" alt="image" src="https://user-images.githubusercontent.com/64684527/234146930-3ee2e73e-be0e-4211-ba59-d42bf871aa71.png">
 
-The Final Demo Video of our Product Idea can be accessed [here](https://www.youtube.com/watch?v=URTHdlVCIRM)
+The final demo video of our product idea can be accessed [here](https://www.youtube.com/watch?v=URTHdlVCIRM)
